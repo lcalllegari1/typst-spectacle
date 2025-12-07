@@ -1,0 +1,1 @@
+#import "src/spectacle.typ": spectacle, section, frame
